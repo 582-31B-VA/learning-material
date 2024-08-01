@@ -53,3 +53,29 @@ refers to *Let's Go* by Alex Edwards.
 -   [Go by Example: Variables](https://gobyexample.com/variables)
 -   [Go by Example: Constants](https://gobyexample.com/constants)
 
+## 2.
+
+### Loop statement
+
+-   BB 1.2. Command-Line Arguments (pp. 6–7)
+-   [Go by Example: For](https://gobyexample.com/for)
+
+### Conditional statement
+
+-   BB 1.3. Finding Duplicate Lines (p. 9)
+-   [Go by Example: If/Else](https://gobyexample.com/if-else)
+
+### Arrays
+
+-   BB 4.1. Arrays (pp. 81–84)
+-   [Go by Example: Arrays](https://gobyexample.com/arrays)
+
+### Slices
+
+-   BB 4.2. Slices (pp. 84–93)
+-   [Go by Example: Slices](https://gobyexample.com/slices)
+
+### Maps
+
+-   BB 4.3. Maps (pp. 93–99)
+-   [Go by Example: Maps](https://gobyexample.com/maps)
