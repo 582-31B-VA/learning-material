@@ -79,3 +79,56 @@ refers to *Let's Go* by Alex Edwards.
 
 -   BB 4.3. Maps (pp. 93–99)
 -   [Go by Example: Maps](https://gobyexample.com/maps)
+
+## 3.
+
+### Functions
+
+-	BB 5.1. Functions Declarations (pp. 119–121)
+-	[Go by Example: Functions](https://gobyexample.com/functions)
+-	BB 5.3. Multiple Return Values (pp. 124–127)
+-	[Go by Example: Multiple Return Values](https://gobyexample.com/multiple-return-values)
+-	BB 5.7. Variadic Functions (pp. 142–143)
+
+### Errors
+
+-   BB 5.4. Errors (pp. 127–132)
+-   [The Go Blog: Errors are values](https://go.dev/blog/errors-are-values)
+-   [Go by Example: Errors](https://gobyexample.com/errors)
+
+### Testing
+
+-   BB 11.1. The `go test` Tool (p. 302)
+-   BB 11.2. `Test` Functions (pp. 302–317)
+-   [Go by Example: Testing](https://gobyexample.com/testing)
+-   [Dave Cheney: Prefer table driven tests](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
+-   [The Go Blog: Using Subtests and Sub-benchmarks](https://go.dev/blog/subtests)
+-   [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world)
+
+### Printing
+
+-   [Standard Library](https://pkg.go.dev/fmt@go1.22.6#hdr-Printing)
+
+### Documenting Packages
+
+-   BB 10.7.4. Documenting Packages (p. 296)
+
+## 4.
+
+### Type conversions
+
+-   [A Tour of Go: Type conversions](https://go.dev/tour/basics/13)
+
+### Type declarations
+
+-   BB 2.5. Type Declarations (pp. 39–41)
+
+### Methods
+
+-   BB 6. Methods (pp. 155–170)
+-   [Go by Example: Methods](https://gobyexample.com/methods)
+
+### Structs
+
+-   BB 4.4. Structs (pp. 99–107)
+-   [Go by Example: Structs](https://gobyexample.com/structs)
