@@ -132,3 +132,11 @@ refers to *Let's Go* by Alex Edwards.
 
 -   BB 4.4. Structs (pp. 99–107)
 -   [Go by Example: Structs](https://gobyexample.com/structs)
+
+## 6.
+
+### Interfaces
+
+-   BB 7. Interfaces (pp. 171–179)
+-   [Effective Go: Interfaces and Types](https://go.dev/doc/effective_go#interfaces_and_types)
+-   [Alex Edwards: Interfaces Explained](https://www.alexedwards.net/blog/interfaces-explained)
