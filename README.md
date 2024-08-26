@@ -140,3 +140,13 @@ refers to *Let's Go* by Alex Edwards.
 -   BB 7. Interfaces (pp. 171–179)
 -   [Effective Go: Interfaces and Types](https://go.dev/doc/effective_go#interfaces_and_types)
 -   [Alex Edwards: Interfaces Explained](https://www.alexedwards.net/blog/interfaces-explained)
+
+## 7.
+
+-   LG 2. Foundations — 2.6. Customizing responses
+-   LG 2.10. The http.Handler interface
+
+## 8.
+
+-   LG 2.7. Project structure and organization
+-   LG 2.8. HTML templating and inheritance – 2.9. Serving static files
