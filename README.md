@@ -150,3 +150,8 @@ refers to *Let's Go* by Alex Edwards.
 
 -   LG 2.7. Project structure and organization
 -   LG 2.8. HTML templating and inheritance – 2.9. Serving static files
+
+
+## 9.
+
+-   LG 3. Configuration and error handling
